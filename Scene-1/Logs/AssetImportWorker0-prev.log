@@ -1,0 +1,199 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'fr' Physical Memory: 7872 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/HP/Downloads/terrain/My project (2) - Copie
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57496
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/HP/Downloads/terrain/My project (2) - Copie
+C:/Users/HP/Downloads/terrain/My project (2) - Copie
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20220]  Target information:
+
+Player connection [20220]  * "[IP] 10.21.10.15 [Port] 0 [Flags] 2 [Guid] 2253086483 [EditorId] 2253086483 [Version] 1048832 [Id] WindowsEditor(7,LKMINO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20220]  * "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 2253086483 [EditorId] 2253086483 [Version] 1048832 [Id] WindowsEditor(7,LKMINO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20220] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20220] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 446.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/HP/Downloads/terrain/My project (2) - Copie/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3936 MB
+    Driver:   32.0.101.6314
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.019781 seconds.
+- Loaded All Assemblies, in  5.064 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.836 seconds
+Domain Reload Profiling: 8897ms
+	BeginReloadAssembly (2850ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (7ms)
+	RebuildCommonClasses (333ms)
+	RebuildNativeTypeToScriptingClass (41ms)
+	initialDomainReloadingComplete (303ms)
+	LoadAllAssembliesAndSetupDomain (1528ms)
+		LoadAssemblies (2790ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1515ms)
+			TypeCache.Refresh (1498ms)
+				TypeCache.ScanAssembly (958ms)
+			BuildScriptInfoCaches (2ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (3841ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3508ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (330ms)
+			SetLoadedEditorAssemblies (94ms)
+			BeforeProcessingInitializeOnLoad (667ms)
+			ProcessInitializeOnLoadAttributes (1882ms)
+			ProcessInitializeOnLoadMethodAttributes (535ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  6.465 seconds
+Refreshing native plugins compatible for Editor in 354.59 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.49 ms, found 3 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 60.194 seconds
+Domain Reload Profiling: 66542ms
+	BeginReloadAssembly (1164ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (45ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (208ms)
+	RebuildCommonClasses (362ms)
+	RebuildNativeTypeToScriptingClass (100ms)
+	initialDomainReloadingComplete (405ms)
+	LoadAllAssembliesAndSetupDomain (4297ms)
+		LoadAssemblies (2531ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2444ms)
+			TypeCache.Refresh (1705ms)
+				TypeCache.ScanAssembly (1522ms)
+			BuildScriptInfoCaches (650ms)
+			ResolveRequiredComponents (73ms)
+	FinalizeReload (60214ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (54924ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (38ms)
+			SetLoadedEditorAssemblies (123ms)
+			BeforeProcessingInitializeOnLoad (3549ms)
+			ProcessInitializeOnLoadAttributes (24446ms)
+			ProcessInitializeOnLoadMethodAttributes (24898ms)
+			AfterProcessingInitializeOnLoad (661ms)
+			EditorAssembliesLoaded (1207ms)
+		ExecutionOrderSort2 (3ms)
+		AwakeInstancesAfterBackupRestoration (1719ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 52.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 158 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7341 unused Assets / (7.4 MB). Loaded Objects now: 7798.
+Memory consumption went from 182.8 MB to 175.4 MB.
+Total: 566.369600 ms (FindLiveObjects: 89.172000 ms CreateObjectMapping: 1.309700 ms MarkObjects: 460.947200 ms  DeleteObjects: 14.937300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 109267.692483 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(417c610bd56738e47a6f6186bd2dc125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(417c610bd56738e47a6f6186bd2dc125) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68acfad0546d716142c62c3f9f7b1ac5') in 1.0825471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
